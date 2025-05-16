@@ -21,6 +21,11 @@ CMakeFiles/
 
 # Project files
 *.vcxproj
+*.vcxproj.filters
+
+# Other filetypes
+*.sln
+*.cmake
 
 # Build results
 [Dd]ebug/
