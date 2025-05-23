@@ -1,4 +1,4 @@
-#include "include/calc/lib.hpp"
+#include "calclib/include/calclib/lib.hpp"
 
 double Arithmetic::Add(double a, double b) {
 	return a + b;

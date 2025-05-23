@@ -12,4 +12,4 @@ endif()
 project ("Calculator")
 
 # Include sub-projects.
-add_subdirectory ("Calculator")
+add_subdirectory ("Calculator/src")
